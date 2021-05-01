@@ -19,9 +19,10 @@ Here are some ideas to get you started:
   <img align="left" alt="Jéssica LinkedIn" width="20px" src="https://raw.githubusercontent.com/jessicalemos/jessicalemos/master/assets/linkedin.svg" />
 </a>
 
-<br />
+<br/>
+<br/>
 
 I'm Nelson Teixeira, a software developer from Portugal.
 
-- 🔭 I'm currently working on my thesis;
-- 🌱 I'm finishing my master's degree in Software Engineering.
+- 💪🏻 I'm currently working on my thesis;
+- 🎓 I'm finishing my master's degree in Software Engineering.
