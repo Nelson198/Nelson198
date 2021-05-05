@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.linkedin.com/in/nelson198/">
-  <img align="left" alt="Jéssica LinkedIn" width="20px" src="https://raw.githubusercontent.com/jessicalemos/jessicalemos/master/assets/linkedin.svg" />
-</a>
-
-<br/>
-<br/>
-
 I'm Nelson Teixeira, a software developer from Portugal.
 
 - 💪🏻 I'm currently working on my thesis;
 - 🎓 I'm finishing my master's degree in Software Engineering.
+
+<br/>
+
+![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelson198&count_private=true&theme=slateorange&show_icons=true)
