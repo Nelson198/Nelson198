@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Nelson Teixeira, a software developer from Portugal.
 
 - 💪🏻 I'm currently working on my thesis;
-- 🎓 I'm finishing my master's degree in Software Engineering.
+- 🎓 I'm finishing my master's degree in Computer Software Engineering.
 
 <br/>
 
