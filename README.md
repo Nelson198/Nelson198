@@ -10,6 +10,6 @@ I'm Nelson Teixeira, a software developer from Portugal.
 </a>
 
 <p align="left">
-  <img height="185pt" src="https://github-readme-stats.vercel.app/api?username=nelson198&count_private=true&theme=slateorange&show_icons=true"/>
-  <img height="185pt" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelson198&layout=compact&theme=slateorange&show_icons=true"/>
+  <img height="180pt" src="https://github-readme-stats.vercel.app/api?username=nelson198&count_private=true&theme=slateorange&show_icons=true"/>
+  <img height="180pt" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelson198&layout=compact&theme=slateorange&show_icons=true"/>
 </p>
