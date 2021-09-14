@@ -9,9 +9,7 @@ I'm Nelson Teixeira, a software developer from Portugal.
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"/>
 </a>
 
-<br>
-
 <p align="left">
-  <img height="200pt" src="https://github-readme-stats.vercel.app/api?username=nelson198&count_private=true&theme=slateorange&show_icons=true"/>
-  <img height="200pt" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelson198&layout=compact&theme=slateorange&show_icons=true"/>
+  <img height="185pt" src="https://github-readme-stats.vercel.app/api?username=nelson198&count_private=true&theme=slateorange&show_icons=true"/>
+  <img height="185pt" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelson198&layout=compact&theme=slateorange&show_icons=true"/>
 </p>
