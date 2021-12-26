@@ -1,9 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30pt">
 
 I'm Nelson Teixeira, a software developer from Portugal.
-
-- 💪🏻 I'm currently working on my thesis;
-- 🎓 I'm finishing my master's degree in Computer Software Engineering.
+- I recently finished my MSc in Computer Software Engineering at University of Minho :mortar_board:
 
 <div>
 	<a href="https://www.linkedin.com/in/nelson198">
