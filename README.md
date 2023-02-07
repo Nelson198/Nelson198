@@ -44,7 +44,7 @@ My favorite areas in IT industry are those related to big data, in particular th
 
 ## Certifications :mortar_board:
 <div style="display: inline_block" align="center">
-    <a href="https://credentials.databricks.com/efc1ced5-3b07-414c-858d-861f60589cfd" target="_blank">
+    <a href="https://credentials.databricks.com/83955591-4668-449d-85fe-05736b2f51af" target="_blank">
         <img alt="Databricks Lakehouse Fundamentals (v1 and v2)" height="250px" src="https://templates.images.credential.net/16509948849242752807044385742422.png">
     </a>
 </div>
