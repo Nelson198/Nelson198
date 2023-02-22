@@ -12,7 +12,7 @@ My favorite areas in IT industry are those related to big data, in particular th
 </p>
 
 ## Skills :star:
-<div style="display: inline_block" align="center">
+<div style="display: inline-block" align="center">
     <a href="https://azure.microsoft.com" target="_blank">
 	<img align="center" alt="Azure" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg"/>
     </a>
@@ -43,7 +43,7 @@ My favorite areas in IT industry are those related to big data, in particular th
 </div>
 
 ## Certifications :mortar_board:
-<div style="display: inline_block" align="center">
+<div style="display: inline-block" align="center">
     <a href="https://credentials.databricks.com/83955591-4668-449d-85fe-05736b2f51af" target="_blank">
         <img alt="Databricks Lakehouse Fundamentals (v1 and v2)" height="250px" src="https://templates.images.credential.net/16509948849242752807044385742422.png">
     </a>
@@ -51,10 +51,17 @@ My favorite areas in IT industry are those related to big data, in particular th
     <a href="https://credentials.databricks.com/fe3768ca-7715-4718-89ff-10d435b1083e" target="_blank">
         <img alt="Databricks Lakehouse Fundamentals (v1 and v2)" height="250px" src="https://templates.images.credential.net/16638732864435805707396627386425.png">
     </a>
+    &nbsp;&nbsp;
+    <div style="display: inline-block" align="center">
+        <a href="https://credentials.databricks.com/c709948f-6877-45a5-8155-9e5ef7c8fe6a" target="_blank">
+            <img alt="Databricks Certified Associate Developer for Apache Spark 3.0" height="250px" src="https://templates.images.credential.net/16491856424607350801669276089387.png">
+    	</a>
+	<p><b>Python</b> and <b>Scala</b></p>
+    </div>
 </div>
 
 ## Contact :mailbox:
-<div style="display: inline_block" align="center">
+<div style="display: inline-block" align="center">
     <a href="https://www.linkedin.com/in/nelson198">
 	<img width="90px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
     </a>
