@@ -43,6 +43,7 @@ My favorite areas in IT industry are those related to big data, in particular th
 </div>
 
 ## Certifications :mortar_board:
+<!-- Databricks -->
 <div style="display: inline-block" align="center">
     <a href="https://credentials.databricks.com/83955591-4668-449d-85fe-05736b2f51af" target="_blank">
         <img alt="Databricks Lakehouse Fundamentals (v1 and v2)" height="250px" src="https://templates.images.credential.net/16509948849242752807044385742422.png">
@@ -58,6 +59,16 @@ My favorite areas in IT industry are those related to big data, in particular th
     	</a>
 	<p><b>Python</b> and <b>Scala</b></p>
     </div>
+</div>
+<!-- Google -->
+<div style="display: inline-block" align="center">
+    <a href="https://www.cloudskillsboost.google/public_profiles/ba45db90-eea8-46b3-a353-1b2f19ea0557/badges/4373480?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share" target="_blank">
+        <img alt="Google Cloud Essentials" height="250px" src="https://cdn.qwiklabs.com/xRejIPM4k6VgI8%2B%2B2Nz5bFHFx8PwK0nn9oQofkJOsS4%3D">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.cloudskillsboost.google/public_profiles/ba45db90-eea8-46b3-a353-1b2f19ea0557/badges/4375985?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share" target="_blank">
+        <img alt="Create and Manage Cloud Resources" height="250px" src="https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D">
+    </a>
 </div>
 
 ## Contact :mailbox:
