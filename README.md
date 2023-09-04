@@ -6,9 +6,9 @@ My favorite areas in IT industry are those related to big data, in particular th
 
 ## GitHub
 <p align="center">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=nelson198&count_private=true&theme=slateorange&show_icons=true"/>
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Nelson198&count_private=true&theme=slateorange&show_icons=true"/>
     &nbsp;
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelson198&layout=compact&theme=slateorange&show_icons=true"/>
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelson198&layout=compact&theme=slateorange&show_icons=true"/>
 </p>
 
 ## Skills :star:
