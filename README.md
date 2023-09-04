@@ -62,16 +62,20 @@ My favorite areas in IT industry are those related to big data, in particular th
 </div>
 <!-- Google -->
 <div style="display: inline-block" align="center">
-    <a href="https://www.cloudskillsboost.google/public_profiles/ba45db90-eea8-46b3-a353-1b2f19ea0557/badges/4373480?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share" target="_blank">
+    <a href="https://partner.cloudskillsboost.google/public_profiles/ba45db90-eea8-46b3-a353-1b2f19ea0557/badges/4373480" target="_blank">
         <img alt="Google Cloud Essentials" height="250px" src="https://cdn.qwiklabs.com/xRejIPM4k6VgI8%2B%2B2Nz5bFHFx8PwK0nn9oQofkJOsS4%3D">
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.cloudskillsboost.google/public_profiles/ba45db90-eea8-46b3-a353-1b2f19ea0557/badges/4375985?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share" target="_blank">
+    <a href="https://partner.cloudskillsboost.google/public_profiles/ba45db90-eea8-46b3-a353-1b2f19ea0557/badges/4375985" target="_blank">
         <img alt="Create and Manage Cloud Resources" height="250px" src="https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D">
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.cloudskillsboost.google/public_profiles/ba45db90-eea8-46b3-a353-1b2f19ea0557/badges/4427248?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share" target="_blank">
+    <a href="https://partner.cloudskillsboost.google/public_profiles/ba45db90-eea8-46b3-a353-1b2f19ea0557/badges/4427248" target="_blank">
         <img alt="Google Cloud Fundamentals: Core Infrastructure" height="250px" src="https://cdn.qwiklabs.com/7Ctp1V%2BhbOSmQLBRz91XFL6iYW8s36LJsK3MDyaRdJI%3D">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://partner.cloudskillsboost.google/public_profiles/ba45db90-eea8-46b3-a353-1b2f19ea0557/badges/4988109" target="_blank">
+        <img alt="Data Lake Modernization on Google Cloud" height="250px" src="https://cdn.qwiklabs.com/d4JsUitam2DTgexyzjvReFL4UyfLo5l9kc2jZigVP5s%3D">
     </a>
 </div>
 
