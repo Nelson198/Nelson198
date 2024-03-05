@@ -48,23 +48,21 @@ My favorite areas in IT industry are those related to big data, in particular th
     <a href="https://credentials.databricks.com/83955591-4668-449d-85fe-05736b2f51af" target="_blank">
         <img alt="Databricks Lakehouse Fundamentals (v1 and v2)" height="250px" src="https://templates.images.credential.net/16509948849242752807044385742422.png">
     </a>
-    &nbsp;&nbsp;
     <a href="https://credentials.databricks.com/a991075b-1395-449d-8b15-45c47b87e737" target="_blank">
         <img alt="Partner Training - Advantages of the Lakehouse" height="250px" src="https://templates.images.credential.net/16859773694313675491101455555626.png">
     </a>
-    &nbsp;&nbsp;
     <a href="https://credentials.databricks.com/fe3768ca-7715-4718-89ff-10d435b1083e" target="_blank">
         <img alt="Databricks Platform Administrator" height="250px" src="https://templates.images.credential.net/16638732864435805707396627386425.png">
     </a>
-    &nbsp;&nbsp;
-    <a href="https://credentials.databricks.com/c709948f-6877-45a5-8155-9e5ef7c8fe6a" target="_blank">
-        <img alt="Databricks Certified Associate Developer for Apache Spark 3.0" height="250px" src="https://templates.images.credential.net/16491856424607350801669276089387.png">
-    </a>
+    <br>
     <a href="https://credentials.databricks.com/fd8cbec8-8f5c-4352-9f38-258ce3c0cf18" target="_blank">
         <img alt="Azure Databricks Platform Architect" height="250px" src="https://templates.images.credential.net/16875328858623774637935876095299.png">
     </a>
+    <a href="https://credentials.databricks.com/c709948f-6877-45a5-8155-9e5ef7c8fe6a" target="_blank">
+        <img alt="Databricks Certified Associate Developer for Apache Spark 3.0" height="250px" src="https://templates.images.credential.net/16491856424607350801669276089387.png">
+    </a>
     <a href="https://credentials.databricks.com/b73fd59f-98b1-459d-8d14-f9ab1857e047" target="_blank">
-        <img alt="AWS Databricks Platform Architect" height="250px" src="https://templates.images.credential.net/16875325626855413728527958986373.png">
+        <img alt="AWS Databricks Platform Architect" height="240px" src="https://templates.images.credential.net/16875325626855413728527958986373.png">
     </a>
 </div>
 
