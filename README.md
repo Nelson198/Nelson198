@@ -43,6 +43,16 @@ My favorite areas in IT industry are those related to big data, in particular th
 </div>
 
 ## Certifications :mortar_board:
+### Azure
+<div style="display: inline-block" align="center">
+    <a href="https://learn.microsoft.com/api/credentials/share/en-us/Nelson8/E66F99A2F6AEB7C7?sharingId" target="_blank">
+        <img alt="Microsoft Certified: Azure Fundamentals" height="250px" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg">
+    </a>
+    <a href="https://learn.microsoft.com/api/credentials/share/en-us/Nelson8/687A86F56DD18E86?sharingId" target="_blank">
+        <img alt="Microsoft Certified: Azure Data Fundamentals" height="250px" src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png">
+    </a>
+</div>
+
 ### Databricks
 <div style="display: inline-block" align="center">
     <a href="https://credentials.databricks.com/83955591-4668-449d-85fe-05736b2f51af" target="_blank">
@@ -63,25 +73,6 @@ My favorite areas in IT industry are those related to big data, in particular th
     </a>
     <a href="https://credentials.databricks.com/b73fd59f-98b1-459d-8d14-f9ab1857e047" target="_blank">
         <img alt="AWS Databricks Platform Architect" height="240px" src="https://templates.images.credential.net/16875325626855413728527958986373.png">
-    </a>
-</div>
-
-### Google
-<div style="display: inline-block" align="center">
-    <a href="https://partner.cloudskillsboost.google/public_profiles/ba45db90-eea8-46b3-a353-1b2f19ea0557/badges/4373480" target="_blank">
-        <img alt="Google Cloud Essentials" height="200px" src="https://cdn.qwiklabs.com/xRejIPM4k6VgI8%2B%2B2Nz5bFHFx8PwK0nn9oQofkJOsS4%3D">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://partner.cloudskillsboost.google/public_profiles/ba45db90-eea8-46b3-a353-1b2f19ea0557/badges/4375985" target="_blank">
-        <img alt="Create and Manage Cloud Resources" height="200px" src="https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://partner.cloudskillsboost.google/public_profiles/ba45db90-eea8-46b3-a353-1b2f19ea0557/badges/4427248" target="_blank">
-        <img alt="Google Cloud Fundamentals: Core Infrastructure" height="200px" src="https://cdn.qwiklabs.com/7Ctp1V%2BhbOSmQLBRz91XFL6iYW8s36LJsK3MDyaRdJI%3D">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://partner.cloudskillsboost.google/public_profiles/ba45db90-eea8-46b3-a353-1b2f19ea0557/badges/4988109" target="_blank">
-        <img alt="Data Lake Modernization on Google Cloud" height="200px" src="https://cdn.qwiklabs.com/d4JsUitam2DTgexyzjvReFL4UyfLo5l9kc2jZigVP5s%3D">
     </a>
 </div>
 
