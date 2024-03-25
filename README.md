@@ -46,33 +46,32 @@ My favorite areas in IT industry are those related to big data, in particular th
 ### Azure
 <div style="display: inline-block" align="center">
     <a href="https://learn.microsoft.com/api/credentials/share/en-us/Nelson8/E66F99A2F6AEB7C7?sharingId" target="_blank">
-        <img alt="Microsoft Certified: Azure Fundamentals" height="250px" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg">
+        <img alt="Microsoft Certified: Azure Fundamentals" height="200px" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg">
     </a>
     <a href="https://learn.microsoft.com/api/credentials/share/en-us/Nelson8/687A86F56DD18E86?sharingId" target="_blank">
-        <img alt="Microsoft Certified: Azure Data Fundamentals" height="250px" src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png">
+        <img alt="Microsoft Certified: Azure Data Fundamentals" height="200px" src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png">
     </a>
 </div>
 
 ### Databricks
 <div style="display: inline-block" align="center">
     <a href="https://credentials.databricks.com/83955591-4668-449d-85fe-05736b2f51af" target="_blank">
-        <img alt="Databricks Lakehouse Fundamentals (v1 and v2)" height="250px" src="https://templates.images.credential.net/16509948849242752807044385742422.png">
+        <img alt="Databricks Lakehouse Fundamentals (v1 and v2)" height="200px" src="https://templates.images.credential.net/16509948849242752807044385742422.png">
     </a>
     <a href="https://credentials.databricks.com/a991075b-1395-449d-8b15-45c47b87e737" target="_blank">
-        <img alt="Partner Training - Advantages of the Lakehouse" height="250px" src="https://templates.images.credential.net/16859773694313675491101455555626.png">
+        <img alt="Partner Training - Advantages of the Lakehouse" height="200px" src="https://templates.images.credential.net/16859773694313675491101455555626.png">
     </a>
     <a href="https://credentials.databricks.com/fe3768ca-7715-4718-89ff-10d435b1083e" target="_blank">
-        <img alt="Databricks Platform Administrator" height="250px" src="https://templates.images.credential.net/16638732864435805707396627386425.png">
+        <img alt="Databricks Platform Administrator" height="200px" src="https://templates.images.credential.net/16638732864435805707396627386425.png">
     </a>
-    <br>
     <a href="https://credentials.databricks.com/fd8cbec8-8f5c-4352-9f38-258ce3c0cf18" target="_blank">
-        <img alt="Azure Databricks Platform Architect" height="250px" src="https://templates.images.credential.net/16875328858623774637935876095299.png">
+        <img alt="Azure Databricks Platform Architect" height="200px" src="https://templates.images.credential.net/16875328858623774637935876095299.png">
     </a>
     <a href="https://credentials.databricks.com/c709948f-6877-45a5-8155-9e5ef7c8fe6a" target="_blank">
-        <img alt="Databricks Certified Associate Developer for Apache Spark 3.0" height="250px" src="https://templates.images.credential.net/16491856424607350801669276089387.png">
+        <img alt="Databricks Certified Associate Developer for Apache Spark 3.0" height="200px" src="https://templates.images.credential.net/16491856424607350801669276089387.png">
     </a>
     <a href="https://credentials.databricks.com/b73fd59f-98b1-459d-8d14-f9ab1857e047" target="_blank">
-        <img alt="AWS Databricks Platform Architect" height="240px" src="https://templates.images.credential.net/16875325626855413728527958986373.png">
+        <img alt="AWS Databricks Platform Architect" height="200px" src="https://templates.images.credential.net/16875325626855413728527958986373.png">
     </a>
 </div>
 
