@@ -61,7 +61,7 @@ My favorite areas in IT industry are those related to big data, in particular th
     <a href="https://credentials.databricks.com/a991075b-1395-449d-8b15-45c47b87e737" target="_blank">
         <img alt="Partner Training - Advantages of the Lakehouse" height="200px" src="https://templates.images.credential.net/16859773694313675491101455555626.png">
     </a>
-    <a href="https://credentials.databricks.com/fe3768ca-7715-4718-89ff-10d435b1083e" target="_blank">
+    <a href="https://credentials.databricks.com/13c6e893-ca26-43b7-a5ef-d135bd92cfe0" target="_blank">
         <img alt="Databricks Platform Administrator" height="200px" src="https://templates.images.credential.net/16638732864435805707396627386425.png">
     </a>
     <a href="https://credentials.databricks.com/fd8cbec8-8f5c-4352-9f38-258ce3c0cf18" target="_blank">
