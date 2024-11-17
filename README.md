@@ -43,6 +43,13 @@ My favorite areas in IT industry are those related to big data, in particular th
 </div>
 
 ## Certifications :mortar_board:
+### AWS
+<div style="display: inline-block" align="center">
+    <a href="https://www.credly.com/badges/b15ebab3-1f09-46e0-a273-e9b7bb6e008c/public_url" target="_blank">
+        <img alt="AWS Certified Cloud Practitioner" height="200px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
+    </a>
+</div>
+
 ### Azure
 <div style="display: inline-block" align="center">
     <a href="https://learn.microsoft.com/api/credentials/share/en-us/Nelson8/E66F99A2F6AEB7C7?sharingId" target="_blank">
