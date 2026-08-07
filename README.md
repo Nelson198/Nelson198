@@ -46,7 +46,7 @@ My favorite areas in IT industry are those related to big data, in particular th
 ### Terraform
 <div style="display: inline-block" align="center">
     <a href="https://www.credly.com/badges/53feee21-54ec-42ee-83d2-b456026e0368/public_url" target="_blank">
-        <img alt="HashiCorp Certified Terraform Associate" height="200px" src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png">
+        <img alt="HashiCorp Certified Terraform Associate" height="200px" src="https://images.credly.com/images/0dc62494-dc94-469a-83af-e35309f27356/blob">
     </a>
 </div>
 
