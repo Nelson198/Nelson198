@@ -55,7 +55,7 @@ My favorite areas in IT industry are those related to big data, in particular th
     <a href="https://www.credly.com/badges/b15ebab3-1f09-46e0-a273-e9b7bb6e008c/public_url" target="_blank">
         <img alt="AWS Certified Cloud Practitioner" height="200px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
     </a>
-    <a href="https://www.credly.com/badges/b15ebab3-1f09-46e0-a273-e9b7bb6e008c/public_url" target="_blank">
+    <a href="https://www.credly.com/badges/1525e5fa-93e2-4e05-9547-0e193313037c/public_url" target="_blank">
         <img alt="AWS Certified Data Engineer" height="200px" src="https://images.credly.com/size/680x680/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png">
     </a>
 </div>
