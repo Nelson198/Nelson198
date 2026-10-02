@@ -111,7 +111,10 @@ I enjoy working with big data and distributed systems: building pipelines that p
       <a href="https://credentials.databricks.com/a991075b-1395-449d-8b15-45c47b87e737"><img src="https://templates.images.credential.net/16859773694313675491101455555626.png" width="100" alt="Partner Training: Advantages of the Lakehouse"/></a><br/>
       <sub>Partner Training: Advantages of the Lakehouse</sub>
     </td>
-    <td width="25%"></td>
+    <td align="center" width="25%">
+      <a href="https://credentials.databricks.com/11e27897-bfab-43a1-9e00-b35ef12201c0"><img src="https://templates.images.credential.net/17398951176963021610006048350100.png" width="100" alt="Generative AI Fundamentals"/></a><br/>
+      <sub>Generative AI Fundamentals</sub>
+    </td>
   </tr>
 </table>
 
